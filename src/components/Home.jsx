@@ -1,6 +1,6 @@
 import React from 'react'
 import NavBar from './NavBar'
-import Carousel from './carousel'
+import Carousel from './Carousel'
 import Products from './Products'
 
 
